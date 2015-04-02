@@ -1,0 +1,164 @@
+body{
+	min-width: 1400px;
+	min-height: 610px;
+	
+}
+header{
+	height: 40px;
+	background: #294860;
+	margin: 10px;
+	font-family: arial;
+	
+}
+.left{
+	width: 50px;
+	float: left;
+	color: #FDFDFD;
+	padding: 10px 0 0 60px;
+	font-size: 20px;
+
+}
+.right{
+	
+	float: right;
+	margin-right: 50px;
+	font-size: 15px;
+}
+.right ul{
+	list-style: none;
+	text-align: center;
+	position: relative;
+	bottom: 5px;
+}
+.right li{
+	display: inline;
+	margin: 15px;
+	color: #8C989E;
+}
+.form{
+	float: right;
+	position: relative;
+	bottom: 40px;
+}
+.form input{
+	height: 33px;
+	width: 500px;
+	font-size: 14px;
+	border: 2px solid#DADADA;
+	margin-right: -1px;
+	
+}
+.form img{
+	float: right;
+	margin-right: 100px;
+}
+h1{
+	font-size: 32px;
+	margin: 40px 0 0 65px;
+	color: #374D5E;
+}
+.column-left{
+	width: 270px;
+	float: left;
+	margin-left: 65px;
+}
+ ul{
+	list-style: none;
+	padding-left:10px; 
+}
+.category li{
+	color: #43B6E5;
+	line-height: 1.4;
+}
+.category p{
+	color: #A4888F;
+	font-size: 14px;
+	padding-left:10px;
+	position: relative;
+	top: 13px;
+}
+.form2 p{
+	color: #A4888F;
+	font-size: 14px;
+	padding-left:14px;
+	position: relative;
+	top:5px;
+}
+.form2{
+	line-height: 1.5;
+}
+.category li:nth-child(3){
+	background: #F3F3F3;
+}
+.all{
+	position: absolute;
+	top: 158px;
+	left: 340px;
+	margin-right: 30px;
+}
+.column-rignt{
+	height: 190px; 
+	background: #1199C3;
+	color: #ffffff;
+	float: right;
+	line-height: 1.4;
+	padding: 0 15px;
+}
+.column-rignt h2{
+	font-size: 20px;
+}
+.block{
+	border-left: 2px solid#E9E9E9;
+	float: left;
+	
+}
+.block5{
+	float: left;
+	margin: 30px 0 20px 15px;
+}
+.block6{
+	float: left;
+	margin: 10px 0px 0 15px;
+}
+.block5 img{
+	float: left;
+}
+.block6 img{
+	float: left;
+}
+.block5 h2{
+	color:#139AD2;
+	position: relative;
+	left: 30px;
+	bottom: 20px;
+}
+.block5 p{
+	position: relative;
+	left: 30px;
+	bottom: 40px;
+	font-size: 16px;
+}
+.block6 h2{
+	color:#139AD2;
+	position: relative;
+	left: 30px;
+	bottom: 20px;
+}
+.block6 p{
+	position: relative;
+	left: 30px;
+	bottom: 40px;
+	font-size: 16px;
+}
+h2 .img2{
+	float: right;
+	margin-right: 270px;
+	border-radius: 15%;
+}
+.int{
+	float: right;
+	position: relative;
+	bottom: 130px;
+	right: 120px;
+}
+
