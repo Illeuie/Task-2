@@ -1,6 +1,6 @@
 
 body{
-	width: 1400px;
+	width: 1280px;
 	min-height: 610px;
 	margin: auto;
 }
@@ -101,7 +101,7 @@ h1{
 
 }
 .column-rignt{
-	width: 1000px;
+	width: 900px;
 	height: 190px; 
 	background: #1199C3;
 	color: #ffffff;
@@ -113,19 +113,19 @@ h1{
 	font-size: 20px;
 }
 .block{
-	width: 1000px;
+	width: 850px;
 	border-left: 2px solid#E9E9E9;
 	float: left;
 	
 }
 .block5{
-	width: 950px;
+	width: 850px;
 	float: left;
 	margin: 30px 0 20px 15px;
 	position: relative;
 }
 .block6{
-	width: 950px;
+	width: 850px;
 	float: left;
 	margin: 10px 0px 0 15px;
 	position: relative;
@@ -146,7 +146,8 @@ h1{
 	position: relative;
 	left: 30px;
 	bottom: 40px;
-	font-size: 16px;
+	font-size: 17px;
+	line-height: 1.4
 }
 .block6 h2{
 	color:#139AD2;
@@ -158,18 +159,19 @@ h1{
 	position: relative;
 	left: 30px;
 	bottom: 40px;
-	font-size: 16px;
+	font-size: 17px;
+	line-height: 1.4;
 }
 h2 .img2{
-	float: right;
-	margin-right: 270px;
-	border-radius: 15%;
-	padding-right: 30px;
+	position: absolute;
+	margin-left:10px; 
+
+	
 }
 .inter{
 	position: absolute;
 	left: 710px;
-	bottom: 260px;
+	bottom: 268px;
 	
 }
 .inter span4{
@@ -193,7 +195,7 @@ h2 .img2{
 .inter2{
 	position: absolute;
 	left: 710px;
-	top: 150px;
+	top: 165px;
 }
 
 
