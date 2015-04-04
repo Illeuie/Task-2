@@ -1,9 +1,8 @@
+
 body{
 	width: 1400px;
 	min-height: 610px;
-	vertical-align: top;
-	position: center;
-	
+	margin: auto;
 }
 header{
 	height: 40px;
@@ -123,11 +122,13 @@ h1{
 	width: 950px;
 	float: left;
 	margin: 30px 0 20px 15px;
+	position: relative;
 }
 .block6{
 	width: 950px;
 	float: left;
 	margin: 10px 0px 0 15px;
+	position: relative;
 }
 .block5 img{
 	float: left;
@@ -167,8 +168,9 @@ h2 .img2{
 }
 .inter{
 	position: absolute;
-	left:1080px;
-	top:385px;
+	left: 710px;
+	bottom: 260px;
+	
 }
 .inter span4{
 	padding-right: 10px;
@@ -190,8 +192,8 @@ h2 .img2{
 }
 .inter2{
 	position: absolute;
-	left:1080px;
-	top:530px;
+	left: 710px;
+	top: 150px;
 }
 
 
