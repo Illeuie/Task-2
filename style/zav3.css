@@ -3,27 +3,29 @@ body{
 	width: 1280px;
 	min-height: 610px;
 	margin: auto;
+	
 }
 header{
 	height: 40px;
 	background: #294860;
 	margin: 10px;
-	font-family: arial;
+	font-family: "Whitney SSm A","Whitney SSm B","Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 14px;
+	line-height: 1.7;
+	margin:auto;
 	
 }
 .left{
 	width: 50px;
 	float: left;
 	color: #FDFDFD;
-	padding: 10px 0 0 60px;
+	padding: 5px 0 0 60px;
 	font-size: 20px;
 
 }
 .right{
-	
 	float: right;
-	margin-right: 50px;
-	font-size: 15px;
+	margin-right: 70px;
 }
 .right ul{
 	list-style: none;
@@ -40,16 +42,13 @@ header{
 	float: right;
 	position: relative;
 	bottom: 40px;
-	margin-right: 100px;
+	margin-right: 70px;
 	height: 33px;
-	
 }
 .form input{
 	height: 33px;
 	width: 500px;
 	font-size: 14px;
-	border-collapse: collapse;
-	vertical-align: top;
 }
 .form img{
 	float: right;
@@ -81,14 +80,12 @@ h1{
 }
 .category p{
 	color: #A4888F;
-	font-size: 14px;
 	padding-left:10px;
 	position: relative;
 	top: 13px;
 }
 .form2 p{
 	color: #A4888F;
-	font-size: 14px;
 	padding-left:14px;
 	position: relative;
 	top:5px;
@@ -101,7 +98,7 @@ h1{
 
 }
 .column-rignt{
-	width: 900px;
+	width: 860px;
 	height: 190px; 
 	background: #1199C3;
 	color: #ffffff;
@@ -113,21 +110,21 @@ h1{
 	font-size: 20px;
 }
 .block{
-	width: 850px;
+	width: 820px;
 	border-left: 2px solid#E9E9E9;
 	float: left;
 	
 }
 .block5{
-	width: 850px;
+	width: 820px;
 	float: left;
-	margin: 30px 0 20px 15px;
+	margin: 30px 0 10px 15px;
 	position: relative;
 }
 .block6{
 	width: 850px;
 	float: left;
-	margin: 10px 0px 0 15px;
+	margin: 10px 0 0 15px;
 	position: relative;
 }
 .block5 img{
@@ -141,6 +138,7 @@ h1{
 	position: relative;
 	left: 30px;
 	bottom: 20px;
+	font-size: 23px;
 }
 .block5 p{
 	position: relative;
@@ -154,6 +152,7 @@ h1{
 	position: relative;
 	left: 30px;
 	bottom: 20px;
+	font-size: 23px;
 }
 .block6 p{
 	position: relative;
@@ -170,8 +169,8 @@ h2 .img2{
 }
 .inter{
 	position: absolute;
-	left: 710px;
-	bottom: 273px;
+	left: 690px;
+	bottom: 261px;
 	
 }
 .inter span4{
@@ -194,8 +193,8 @@ h2 .img2{
 }
 .inter2{
 	position: absolute;
-	left: 710px;
-	top: 165px;
+	left: 690px;
+	top: 147px;
 }
 
 
